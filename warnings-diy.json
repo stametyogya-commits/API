@@ -1,0 +1,24 @@
+{
+  "live_endpoint": "https://maritim.bmkg.go.id/marine2026-data/warning/warnings.json",
+  "pdf_endpoint": "https://maritim.bmkg.go.id/marine2026-data/warning/pdf/di-yogyakarta.pdf",
+  "data_diy": {
+    "region": "DI Yogyakarta",
+    "synoptic": "Terpantau adanya Pusaran Siklonik di wilayah perairan Kalimantan bagian Utara dan angin timuran masih mendominasi wilayah Jawa dan sekitarnya, cuaca di daerah wilayah DIY masih mayoritas cerah hingga berawan. Dominasi angin timuran yang cukup kencang berdampak pada potensi peningkatan tinggi gelombang laut di perairan Yogyakarta dan Samudra Hindia selatan Yogyakarta.",
+    "valid_from": "2026-10-19T07:00",
+    "valid_until": "2026-10-22T07:00",
+    "time_zone": "WIB",
+    "tinggi_on_second_post": false,
+    "warning": {
+      "sedang": [],
+      "tinggi": [
+        "Perairan Kulonprogo",
+        "Perairan Bantul",
+        "Perairan Gunungkidul",
+        "Samudra Hindia selatan DI Yogyakarta"
+      ],
+      "sangat_tinggi": [],
+      "ekstrem": []
+    },
+    "pdf": "di-yogyakarta.pdf"
+  }
+}

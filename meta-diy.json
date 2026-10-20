@@ -1,0 +1,49 @@
+{
+  "province": "DI Yogyakarta",
+  "areas": [
+    {
+      "id": "P.N.01",
+      "id_api": "P.N.01",
+      "name": "Perairan Kulonprogo",
+      "kab": "Kulon Progo",
+      "pdf": "P.N.01.pdf"
+    },
+    {
+      "id": "P.N.02",
+      "id_api": "P.N.02",
+      "name": "Perairan Bantul",
+      "kab": "Bantul",
+      "pdf": "P.N.02.pdf"
+    },
+    {
+      "id": "P.N.03",
+      "id_api": "P.N.03",
+      "name": "Perairan Gunungkidul",
+      "kab": "Gunungkidul",
+      "pdf": "P.N.03.pdf"
+    }
+  ],
+  "ports": [
+    {
+      "code": "XN001",
+      "name": "Pelabuhan PPP Sadeng",
+      "kab": "Gunungkidul",
+      "coordinates": [110.799510154, -8.189463639],
+      "pdf": "XN001.pdf"
+    },
+    {
+      "code": "XN002",
+      "name": "Pelabuhan PPP Gesing",
+      "kab": "Gunungkidul",
+      "coordinates": [110.462590061, -8.098704441],
+      "pdf": "XN002.pdf"
+    },
+    {
+      "code": "XN003",
+      "name": "Pelabuhan PP Adikarto",
+      "kab": "Kulon Progo",
+      "coordinates": [110.085781254, -7.91632783399995],
+      "pdf": "XN003.pdf"
+    }
+  ]
+}
